@@ -1,6 +1,6 @@
 services:
   node-agent:
-    image: ghcr.io/case211/remnawave-admin-node-agent:latest
+    image: ghcr.io/case211/remnawave-admin-node-agent:e161aaae2409589657745d3889e851871acb9310
     container_name: remnawave-node-agent
     restart: unless-stopped
     env_file:
