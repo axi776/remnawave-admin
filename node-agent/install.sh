@@ -12,7 +12,7 @@ set -euo pipefail
 # whatever GitHub returns, and a 429 rate-limit body becomes a command.
 
 INSTALL_DIR="/opt/remnawave-node-agent"
-COMPOSE_URL="https://raw.githubusercontent.com/Case211/remnawave-admin/main/node-agent/docker-compose.yml"
+COMPOSE_URL="https://raw.githubusercontent.com/axi776/remnawave-admin/main/node-agent/docker-compose.yml"
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
