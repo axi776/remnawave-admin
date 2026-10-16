@@ -102,6 +102,6 @@ BTC `1J6Zz7XcrpFkchwFmuU5WTFYTxziBdSwRz`
   <img src="docs/star-history.svg" alt="История звёзд" width="640" />
 </a>
 
-Сделано для сообщества Remnawave
+Сделано для сообщества Remnawave 
 
 </div>
