@@ -4,7 +4,7 @@ set -euo pipefail
 # Remnawave Node Agent — one-line installer
 # Usage:
 #   curl -fsSL --retry 3 --retry-delay 2 \
-#     https://raw.githubusercontent.com/Case211/remnawave-admin/main/node-agent/install.sh \
+#     https://raw.githubusercontent.com/axi776/remnawave-admin/main/node-agent/install.sh \
 #     -o /tmp/rwa-node-agent-install.sh \
 #   && bash /tmp/rwa-node-agent-install.sh --uuid UUID --url URL --token TOKEN
 #
