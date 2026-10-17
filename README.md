@@ -47,7 +47,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/Case211/remnawave-admin.git
+git clone https://github.com/axi776/remnawave-admin.git
 cd remnawave-admin
 cp .env.example .env
 nano .env                          # токен бота, API панели, ваш Telegram ID
